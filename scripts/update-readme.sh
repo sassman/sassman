@@ -7,19 +7,29 @@ TEMPLATE="$REPO_ROOT/README.md.tpl"
 OUTPUT="$REPO_ROOT/README.md"
 
 # Format star count: 0 → "—", 1-999 → exact, 1000-1099 → "1k", 1100+ → "X.Yk" (truncated)
+# Output is right-aligned to 4 chars using &nbsp; for fixed-width display in <code> blocks
 format_stars() {
   local count="$1"
+  local value
   if [ "$count" -eq 0 ]; then
-    echo "—"
+    value="—"
   elif [ "$count" -lt 1000 ]; then
-    echo "$count"
+    value="$count"
   elif [ "$count" -lt 1100 ]; then
-    echo "1k"
+    value="1k"
   else
     local major=$((count / 1000))
     local minor=$(( (count % 1000) / 100 ))
-    echo "${major}.${minor}k"
+    value="${major}.${minor}k"
   fi
+  # Right-align to 4 characters, padding with &nbsp;
+  local len=${#value}
+  local pad=$((4 - len))
+  local prefix=""
+  for ((i = 0; i < pad; i++)); do
+    prefix="${prefix}&nbsp;"
+  done
+  echo "${prefix}${value}"
 }
 
 # Read template
@@ -47,8 +57,9 @@ for placeholder in $placeholders; do
   formatted="$(format_stars "$star_count")"
   echo "  $repo: $star_count → $formatted" >&2
 
-  # Replace placeholder using | delimiter to avoid slash conflicts
-  content="$(echo "$content" | sed "s|{{STARS:$repo}}|$formatted|g")"
+  # Escape & for sed replacement (& means "matched text" in sed)
+  escaped="${formatted//&/\\&}"
+  content="$(echo "$content" | sed "s|{{STARS:$repo}}|$escaped|g")"
 done
 
 echo "$content" > "$OUTPUT"

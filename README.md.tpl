@@ -20,27 +20,27 @@
 
 <h4>⚙️ Developer Tooling</h4>
 
-<a href="https://github.com/cargo-generate/cargo-generate"><b>cargo-generate</b></a> — Scaffold projects from templates · ⭐ {{STARS:cargo-generate/cargo-generate}}<br>
-<a href="https://github.com/sassman/cargo-codesign-rs"><b>cargo-codesign</b></a> — Code signing & notarization · ⭐ {{STARS:sassman/cargo-codesign-rs}}<br>
-<a href="https://github.com/sassman/gh-pr-lander-rs"><b>gh-pr-lander</b></a> — TUI for fast PR reviews · ⭐ {{STARS:sassman/gh-pr-lander-rs}}<br>
-<a href="https://github.com/sassman/dirs-lite-rs"><b>dirs-lite</b></a> — Zero-dep config directories · ⭐ {{STARS:sassman/dirs-lite-rs}}<br>
-<a href="https://github.com/sassman/duration-ext-rs"><b>duration-ext</b></a> — Ergonomic Duration from numeric literals · ⭐ {{STARS:sassman/duration-ext-rs}}
+<code>⭐ {{STARS:cargo-generate/cargo-generate}}</code> <a href="https://github.com/cargo-generate/cargo-generate"><b>cargo-generate</b></a> — Scaffold projects from templates<br>
+<code>⭐ {{STARS:sassman/cargo-codesign-rs}}</code> <a href="https://github.com/sassman/cargo-codesign-rs"><b>cargo-codesign</b></a> — Code signing & notarization<br>
+<code>⭐ {{STARS:sassman/gh-pr-lander-rs}}</code> <a href="https://github.com/sassman/gh-pr-lander-rs"><b>gh-pr-lander</b></a> — TUI for fast PR reviews<br>
+<code>⭐ {{STARS:sassman/dirs-lite-rs}}</code> <a href="https://github.com/sassman/dirs-lite-rs"><b>dirs-lite</b></a> — Zero-dep config directories<br>
+<code>⭐ {{STARS:sassman/duration-ext-rs}}</code> <a href="https://github.com/sassman/duration-ext-rs"><b>duration-ext</b></a> — Ergonomic Duration from numeric literals
 
 <h4>🖥️ Terminal & CLI</h4>
 
-<a href="https://github.com/sassman/t-rec-rs"><b>t-rec</b></a> — Terminal recorder → animated GIFs · ⭐ {{STARS:sassman/t-rec-rs}}<br>
-<a href="https://github.com/sassman/ssd-benchmark-rs"><b>ssd-benchmark</b></a> — Disk write benchmarking · ⭐ {{STARS:sassman/ssd-benchmark-rs}}<br>
-<a href="https://github.com/sassman/putzen-rs"><b>putzen</b></a> — Clean build artifacts safely · ⭐ {{STARS:sassman/putzen-rs}}
+<code>⭐ {{STARS:sassman/t-rec-rs}}</code> <a href="https://github.com/sassman/t-rec-rs"><b>t-rec</b></a> — Terminal recorder → animated GIFs<br>
+<code>⭐ {{STARS:sassman/ssd-benchmark-rs}}</code> <a href="https://github.com/sassman/ssd-benchmark-rs"><b>ssd-benchmark</b></a> — Disk write benchmarking<br>
+<code>⭐ {{STARS:sassman/putzen-rs}}</code> <a href="https://github.com/sassman/putzen-rs"><b>putzen</b></a> — Clean build artifacts safely
 
 <h4>🔐 Security & Crypto</h4>
 
-<a href="https://github.com/steganogram/stegano-rs"><b>stegano-rs</b></a> — Steganography CLI tool · ⭐ {{STARS:steganogram/stegano-rs}}<br>
-<a href="https://github.com/sassman/srp6-rs"><b>srp6</b></a> — Secure Remote Password (SRP6a) · ⭐ {{STARS:sassman/srp6-rs}}<br>
-<a href="https://github.com/sassman/license-guard-rs"><b>license-guard</b></a> — Offline licensing with Ed25519 · ⭐ {{STARS:sassman/license-guard-rs}}
+<code>⭐ {{STARS:steganogram/stegano-rs}}</code> <a href="https://github.com/steganogram/stegano-rs"><b>stegano-rs</b></a> — Steganography CLI tool<br>
+<code>⭐ {{STARS:sassman/srp6-rs}}</code> <a href="https://github.com/sassman/srp6-rs"><b>srp6</b></a> — Secure Remote Password (SRP6a)<br>
+<code>⭐ {{STARS:sassman/license-guard-rs}}</code> <a href="https://github.com/sassman/license-guard-rs"><b>license-guard</b></a> — Offline licensing with Ed25519
 
 <h4>🍎 macOS & Native</h4>
 
-<a href="https://github.com/sassman/core-animation-rs"><b>core-animation-rs</b></a> — Ergonomic Rust bindings for Core Animation · ⭐ {{STARS:sassman/core-animation-rs}}<br>
-<a href="https://github.com/sassman/movie2usb-rs"><b>movie2usb</b></a> — Prepare USB sticks with movies · ⭐ {{STARS:sassman/movie2usb-rs}}
+<code>⭐ {{STARS:sassman/core-animation-rs}}</code> <a href="https://github.com/sassman/core-animation-rs"><b>core-animation-rs</b></a> — Ergonomic Rust bindings for Core Animation<br>
+<code>⭐ {{STARS:sassman/movie2usb-rs}}</code> <a href="https://github.com/sassman/movie2usb-rs"><b>movie2usb</b></a> — Prepare USB sticks with movies
 
 </td></tr></table>
