@@ -21,7 +21,7 @@
 <h4>⚙️ Developer Tooling</h4>
 
 <code>⭐ 2.3k</code> <a href="https://github.com/cargo-generate/cargo-generate"><b>cargo-generate</b></a> — Scaffold projects from templates<br>
-<code>⭐ &nbsp;&nbsp;24</code> <a href="https://github.com/sassman/cargo-codesign-rs"><b>cargo-codesign</b></a> — Code signing & notarization<br>
+<code>⭐ &nbsp;&nbsp;26</code> <a href="https://github.com/sassman/cargo-codesign-rs"><b>cargo-codesign</b></a> — Code signing & notarization<br>
 <code>⭐ &nbsp;&nbsp;21</code> <a href="https://github.com/sassman/gh-pr-lander-rs"><b>gh-pr-lander</b></a> — TUI for fast PR reviews<br>
 <code>⭐ &nbsp;&nbsp;&nbsp;3</code> <a href="https://github.com/sassman/dirs-lite-rs"><b>dirs-lite</b></a> — Zero-dep config directories<br>
 <code>⭐ &nbsp;&nbsp;&nbsp;—</code> <a href="https://github.com/sassman/duration-ext-rs"><b>duration-ext</b></a> — Ergonomic Duration from numeric literals
@@ -34,7 +34,7 @@
 
 <h4>🔐 Security & Crypto</h4>
 
-<code>⭐ &nbsp;135</code> <a href="https://github.com/steganogram/stegano-rs"><b>stegano-rs</b></a> — Steganography CLI tool<br>
+<code>⭐ &nbsp;136</code> <a href="https://github.com/steganogram/stegano-rs"><b>stegano-rs</b></a> — Steganography CLI tool<br>
 <code>⭐ &nbsp;&nbsp;20</code> <a href="https://github.com/sassman/srp6-rs"><b>srp6</b></a> — Secure Remote Password (SRP6a)<br>
 <code>⭐ &nbsp;&nbsp;&nbsp;1</code> <a href="https://github.com/sassman/license-guard-rs"><b>license-guard</b></a> — Offline licensing with Ed25519
 
