@@ -31,6 +31,7 @@
 <code>⭐ {{STARS:sassman/t-rec-rs}}</code> <a href="https://github.com/sassman/t-rec-rs"><b>t-rec</b></a> — Terminal recorder → animated GIFs<br>
 <code>⭐ {{STARS:sassman/ssd-benchmark-rs}}</code> <a href="https://github.com/sassman/ssd-benchmark-rs"><b>ssd-benchmark</b></a> — Disk write benchmarking<br>
 <code>⭐ {{STARS:sassman/putzen-rs}}</code> <a href="https://github.com/sassman/putzen-rs"><b>putzen</b></a> — Clean build artifacts safely
+<code>⭐ {{STARS:sassman/amoxide-rs}}</code> <a href="https://github.com/sassman/amoxide-rs"><b>amoxide - am</b></a> — Manage your shell aliases globally, profile- or project-specific. tracks context automatically
 
 <h4>🔐 Security & Crypto</h4>
 
