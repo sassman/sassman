@@ -21,7 +21,7 @@
 <h4>⚙️ Developer Tooling</h4>
 
 <code>⭐ 2.3k</code> <a href="https://github.com/cargo-generate/cargo-generate"><b>cargo-generate</b></a> — Scaffold projects from templates<br>
-<code>⭐ &nbsp;&nbsp;28</code> <a href="https://github.com/sassman/cargo-codesign-rs"><b>cargo-codesign</b></a> — Code signing & notarization<br>
+<code>⭐ &nbsp;&nbsp;30</code> <a href="https://github.com/sassman/cargo-codesign-rs"><b>cargo-codesign</b></a> — Code signing & notarization<br>
 <code>⭐ &nbsp;&nbsp;22</code> <a href="https://github.com/sassman/gh-pr-lander-rs"><b>gh-pr-lander</b></a> — TUI for fast PR reviews<br>
 <code>⭐ &nbsp;&nbsp;&nbsp;3</code> <a href="https://github.com/sassman/dirs-lite-rs"><b>dirs-lite</b></a> — Zero-dep config directories<br>
 <code>⭐ &nbsp;&nbsp;&nbsp;—</code> <a href="https://github.com/sassman/duration-ext-rs"><b>duration-ext</b></a> — Ergonomic Duration from numeric literals
@@ -29,12 +29,12 @@
 <h4>🖥️ Terminal & CLI</h4>
 
 <code>⭐ 1.2k</code> <a href="https://github.com/sassman/t-rec-rs"><b>t-rec</b></a> — Terminal recorder → animated GIFs<br>
-<code>⭐ &nbsp;&nbsp;56</code> <a href="https://github.com/sassman/ssd-benchmark-rs"><b>ssd-benchmark</b></a> — Disk write benchmarking<br>
+<code>⭐ &nbsp;&nbsp;57</code> <a href="https://github.com/sassman/ssd-benchmark-rs"><b>ssd-benchmark</b></a> — Disk write benchmarking<br>
 <code>⭐ &nbsp;&nbsp;30</code> <a href="https://github.com/sassman/putzen-rs"><b>putzen</b></a> — Clean build artifacts safely
 
 <h4>🔐 Security & Crypto</h4>
 
-<code>⭐ &nbsp;136</code> <a href="https://github.com/steganogram/stegano-rs"><b>stegano-rs</b></a> — Steganography CLI tool<br>
+<code>⭐ &nbsp;137</code> <a href="https://github.com/steganogram/stegano-rs"><b>stegano-rs</b></a> — Steganography CLI tool<br>
 <code>⭐ &nbsp;&nbsp;20</code> <a href="https://github.com/sassman/srp6-rs"><b>srp6</b></a> — Secure Remote Password (SRP6a)<br>
 <code>⭐ &nbsp;&nbsp;&nbsp;1</code> <a href="https://github.com/sassman/license-guard-rs"><b>license-guard</b></a> — Offline licensing with Ed25519
 
