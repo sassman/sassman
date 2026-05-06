@@ -41,6 +41,7 @@
 
 <h4>🍎 macOS & Native</h4>
 
+<code>⭐ {{STARS:sassman/display-align}}</code> <a href="https://github.com/sassman/display-align"><b>DisplayAlign</b></a> — macOS menubar app for automatic display arrangement<br>
 <code>⭐ {{STARS:sassman/core-animation-rs}}</code> <a href="https://github.com/sassman/core-animation-rs"><b>core-animation-rs</b></a> — Ergonomic Rust bindings for Core Animation<br>
 <code>⭐ {{STARS:sassman/movie2usb-rs}}</code> <a href="https://github.com/sassman/movie2usb-rs"><b>movie2usb</b></a> — Prepare USB sticks with movies
 
