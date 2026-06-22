@@ -21,8 +21,8 @@
 <h4>⚙️ Developer Tooling</h4>
 
 <code>⭐ 2.4k</code> <a href="https://github.com/cargo-generate/cargo-generate"><b>cargo-generate</b></a> — Scaffold projects from templates<br>
-<code>⭐ &nbsp;&nbsp;34</code> <a href="https://github.com/sassman/cargo-codesign-rs"><b>cargo-codesign</b></a> — Code signing & notarization<br>
-<code>⭐ &nbsp;&nbsp;24</code> <a href="https://github.com/sassman/gh-pr-lander-rs"><b>gh-pr-lander</b></a> — TUI for fast PR reviews<br>
+<code>⭐ &nbsp;&nbsp;35</code> <a href="https://github.com/sassman/cargo-codesign-rs"><b>cargo-codesign</b></a> — Code signing & notarization<br>
+<code>⭐ &nbsp;&nbsp;25</code> <a href="https://github.com/sassman/gh-pr-lander-rs"><b>gh-pr-lander</b></a> — TUI for fast PR reviews<br>
 <code>⭐ &nbsp;&nbsp;&nbsp;3</code> <a href="https://github.com/sassman/dirs-lite-rs"><b>dirs-lite</b></a> — Zero-dep config directories<br>
 <code>⭐ &nbsp;&nbsp;&nbsp;—</code> <a href="https://github.com/sassman/duration-ext-rs"><b>duration-ext</b></a> — Ergonomic Duration from numeric literals
 
@@ -30,8 +30,8 @@
 
 <code>⭐ 1.2k</code> <a href="https://github.com/sassman/t-rec-rs"><b>t-rec</b></a> — Terminal recorder → animated GIFs<br>
 <code>⭐ &nbsp;&nbsp;55</code> <a href="https://github.com/sassman/ssd-benchmark-rs"><b>ssd-benchmark</b></a> — Disk write benchmarking<br>
-<code>⭐ &nbsp;&nbsp;36</code> <a href="https://github.com/sassman/putzen-rs"><b>putzen</b></a> — Clean build artifacts safely<br>
-<code>⭐ &nbsp;108</code> <a href="https://github.com/sassman/amoxide-rs"><b>amoxide - am</b></a> — Manage your shell aliases globally, profile- or project-specific. tracks context automatically
+<code>⭐ &nbsp;&nbsp;37</code> <a href="https://github.com/sassman/putzen-rs"><b>putzen</b></a> — Clean build artifacts safely<br>
+<code>⭐ &nbsp;109</code> <a href="https://github.com/sassman/amoxide-rs"><b>amoxide - am</b></a> — Manage your shell aliases globally, profile- or project-specific. tracks context automatically
 
 <h4>🔐 Security & Crypto</h4>
 
@@ -41,7 +41,7 @@
 
 <h4>🍎 macOS & Native</h4>
 
-<code>⭐ &nbsp;&nbsp;&nbsp;8</code> <a href="https://github.com/sassman/display-align"><b>DisplayAlign</b></a> — macOS menubar app for automatic display arrangement<br>
+<code>⭐ &nbsp;&nbsp;10</code> <a href="https://github.com/sassman/display-align"><b>DisplayAlign</b></a> — macOS menubar app for automatic display arrangement<br>
 <code>⭐ &nbsp;&nbsp;&nbsp;1</code> <a href="https://github.com/sassman/core-animation-rs"><b>core-animation-rs</b></a> — Ergonomic Rust bindings for Core Animation<br>
 <code>⭐ &nbsp;&nbsp;&nbsp;1</code> <a href="https://github.com/sassman/movie2usb-rs"><b>movie2usb</b></a> — Prepare USB sticks with movies
 
