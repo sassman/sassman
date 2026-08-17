@@ -35,7 +35,7 @@
 
 <h4>🔐 Security & Crypto</h4>
 
-<code>⭐ &nbsp;145</code> <a href="https://github.com/steganogram/stegano-rs"><b>stegano-rs</b></a> — Steganography CLI tool<br>
+<code>⭐ &nbsp;146</code> <a href="https://github.com/steganogram/stegano-rs"><b>stegano-rs</b></a> — Steganography CLI tool<br>
 <code>⭐ &nbsp;&nbsp;21</code> <a href="https://github.com/sassman/srp6-rs"><b>srp6</b></a> — Secure Remote Password (SRP6a)<br>
 <code>⭐ &nbsp;&nbsp;&nbsp;1</code> <a href="https://github.com/sassman/license-guard-rs"><b>license-guard</b></a> — Offline licensing with Ed25519
 
