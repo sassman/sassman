@@ -29,9 +29,9 @@
 <h4>🖥️ Terminal & CLI</h4>
 
 <code>⭐ 1.2k</code> <a href="https://github.com/sassman/t-rec-rs"><b>t-rec</b></a> — Terminal recorder → animated GIFs<br>
-<code>⭐ &nbsp;&nbsp;55</code> <a href="https://github.com/sassman/ssd-benchmark-rs"><b>ssd-benchmark</b></a> — Disk write benchmarking<br>
+<code>⭐ &nbsp;&nbsp;56</code> <a href="https://github.com/sassman/ssd-benchmark-rs"><b>ssd-benchmark</b></a> — Disk write benchmarking<br>
 <code>⭐ &nbsp;&nbsp;87</code> <a href="https://github.com/sassman/putzen-rs"><b>putzen</b></a> — Clean build artifacts safely<br>
-<code>⭐ &nbsp;114</code> <a href="https://github.com/sassman/amoxide-rs"><b>amoxide - am</b></a> — Manage your shell aliases globally, profile- or project-specific. tracks context automatically
+<code>⭐ &nbsp;116</code> <a href="https://github.com/sassman/amoxide-rs"><b>amoxide - am</b></a> — Manage your shell aliases globally, profile- or project-specific. tracks context automatically
 
 <h4>🔐 Security & Crypto</h4>
 
