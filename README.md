@@ -30,14 +30,14 @@
 
 <code>⭐ 1.2k</code> <a href="https://github.com/sassman/t-rec-rs"><b>t-rec</b></a> — Terminal recorder → animated GIFs<br>
 <code>⭐ &nbsp;&nbsp;56</code> <a href="https://github.com/sassman/ssd-benchmark-rs"><b>ssd-benchmark</b></a> — Disk write benchmarking<br>
-<code>⭐ &nbsp;&nbsp;89</code> <a href="https://github.com/sassman/putzen-rs"><b>putzen</b></a> — Clean build artifacts safely<br>
-<code>⭐ &nbsp;117</code> <a href="https://github.com/sassman/amoxide-rs"><b>amoxide - am</b></a> — Manage your shell aliases globally, profile- or project-specific. tracks context automatically
+<code>⭐ &nbsp;&nbsp;91</code> <a href="https://github.com/sassman/putzen-rs"><b>putzen</b></a> — Clean build artifacts safely<br>
+<code>⭐ &nbsp;118</code> <a href="https://github.com/sassman/amoxide-rs"><b>amoxide - am</b></a> — Manage your shell aliases globally, profile- or project-specific. tracks context automatically
 
 <h4>🔐 Security & Crypto</h4>
 
-<code>⭐ &nbsp;147</code> <a href="https://github.com/steganogram/stegano-rs"><b>stegano-rs</b></a> — Steganography CLI tool<br>
+<code>⭐ &nbsp;146</code> <a href="https://github.com/steganogram/stegano-rs"><b>stegano-rs</b></a> — Steganography CLI tool<br>
 <code>⭐ &nbsp;&nbsp;21</code> <a href="https://github.com/sassman/srp6-rs"><b>srp6</b></a> — Secure Remote Password (SRP6a)<br>
-<code>⭐ &nbsp;&nbsp;&nbsp;1</code> <a href="https://github.com/sassman/license-guard-rs"><b>license-guard</b></a> — Offline licensing with Ed25519
+<code>⭐ &nbsp;&nbsp;&nbsp;2</code> <a href="https://github.com/sassman/license-guard-rs"><b>license-guard</b></a> — Offline licensing with Ed25519
 
 <h4>🍎 macOS & Native</h4>
 
