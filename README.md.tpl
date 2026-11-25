@@ -23,6 +23,7 @@
 <code>⭐ {{STARS:cargo-generate/cargo-generate}}</code> <a href="https://github.com/cargo-generate/cargo-generate"><b>cargo-generate</b></a> — Scaffold projects from templates<br>
 <code>⭐ {{STARS:sassman/cargo-codesign-rs}}</code> <a href="https://github.com/sassman/cargo-codesign-rs"><b>cargo-codesign</b></a> — Code signing & notarization<br>
 <code>⭐ {{STARS:sassman/gh-pr-lander-rs}}</code> <a href="https://github.com/sassman/gh-pr-lander-rs"><b>gh-pr-lander</b></a> — TUI for fast PR reviews<br>
+<code>⭐ {{STARS:sassman/diffie-rs}}</code> <a href="https://github.com/sassman/diffie-rs"><b>diffie</b></a> — Native desktop app to review git changes commit by commit<br>
 <code>⭐ {{STARS:sassman/dirs-lite-rs}}</code> <a href="https://github.com/sassman/dirs-lite-rs"><b>dirs-lite</b></a> — Zero-dep config directories<br>
 <code>⭐ {{STARS:sassman/duration-ext-rs}}</code> <a href="https://github.com/sassman/duration-ext-rs"><b>duration-ext</b></a> — Ergonomic Duration from numeric literals
 
