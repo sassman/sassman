@@ -23,6 +23,7 @@
 <code>⭐ 2.4k</code> <a href="https://github.com/cargo-generate/cargo-generate"><b>cargo-generate</b></a> — Scaffold projects from templates<br>
 <code>⭐ &nbsp;&nbsp;42</code> <a href="https://github.com/sassman/cargo-codesign-rs"><b>cargo-codesign</b></a> — Code signing & notarization<br>
 <code>⭐ &nbsp;&nbsp;24</code> <a href="https://github.com/sassman/gh-pr-lander-rs"><b>gh-pr-lander</b></a> — TUI for fast PR reviews<br>
+<code>⭐ &nbsp;&nbsp;&nbsp;5</code> <a href="https://github.com/sassman/diffie-rs"><b>diffie</b></a> — Native desktop app to review git changes commit by commit<br>
 <code>⭐ &nbsp;&nbsp;&nbsp;2</code> <a href="https://github.com/sassman/dirs-lite-rs"><b>dirs-lite</b></a> — Zero-dep config directories<br>
 <code>⭐ &nbsp;&nbsp;&nbsp;—</code> <a href="https://github.com/sassman/duration-ext-rs"><b>duration-ext</b></a> — Ergonomic Duration from numeric literals
 
